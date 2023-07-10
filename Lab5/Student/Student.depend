@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584435906 source:e:\2.2\adt\lab5\student\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Student.h"
+
+1584435820 e:\2.2\adt\lab5\student\student.h
+	<stdio.h>
+	<stdbool.h>
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1582019303 source:c:\diak\pal j.-attila\lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"1feladat.h"
+
+1582019218 c:\diak\pal j.-attila\lab1\1feladat.h
+	<stdio.h>
+	<time.h>
+
+1582019242 source:c:\diak\pal j.-attila\lab1\1feladat.c
+	"1feladat.h"
+	<stdio.h>
+
+1582022936 source:e:\2.2\adt\lab1\1feladat.c
+	"1feladat.h"
+	<stdio.h>
+
+1582022820 e:\2.2\adt\lab1\1feladat.h
+	<stdio.h>
+	<time.h>
+
+1582022904 source:e:\2.2\adt\lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"1feladat.h"
+
