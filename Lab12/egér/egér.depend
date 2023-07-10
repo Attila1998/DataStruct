@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589817691 source:e:\2.2\adt\lab12\egér\main.c
+	<stdio.h>
+	<stdlib.h>
+	"seged.h"
+	<conio.h>
+
+1589817691 e:\2.2\adt\lab12\egér\seged.h
+
+1589817760 source:e:\2.2\adt\lab12\egér\seged.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"seged.h"
+

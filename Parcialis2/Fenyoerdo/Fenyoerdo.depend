@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1591088294 source:e:\2.2\adt\parcialis2\fenyoerdo\binarytree.c
+	"BinaryTree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1591087197 e:\2.2\adt\parcialis2\fenyoerdo\binarytree.h
+	<stdio.h>
+	<stdlib.h>
+

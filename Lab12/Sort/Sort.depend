@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589274108 source:e:\2.2\adt\lab12\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1589274092 source:e:\2.2\adt\lab12\sort\sort.c
+	<stdio.h>
+	"Sort.h"
+
+1589274038 e:\2.2\adt\lab12\sort\sort.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589208332 source:e:\2.2\adt\lab11\simafa\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1589208302 source:e:\2.2\adt\lab11\simafa\simafa.c
+	<stdio.h>
+	<stdlib.h>
+
