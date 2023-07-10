@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1552757733 source:d:\adt\3gyak\1feladat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tomb.h"
+
+1552147409 d:\adt\3gyak\1feladat\tomb.h
+
+1552757663 source:d:\adt\3gyak\1feladat\tomb.c
+	<stdlib.h>
+	<stdio.h>
+	"tomb.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553692067 source:d:\adt\6gyak\verem\main.c
+	<stdio.h>
+	<stdlib.h>
+	"verem.h"
+
+1553691677 d:\adt\6gyak\verem\verem.h
+
+1553692067 source:d:\adt\6gyak\verem\verem.c
+	<stdlib.h>
+	<stdio.h>
+	"verem.h"
+

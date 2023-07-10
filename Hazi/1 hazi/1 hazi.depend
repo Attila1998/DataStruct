@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1552150413 source:d:\adt\hazi\1 hazi\main.c
+	<stdlib.h>
+	<stdio.h>
+	"tomb.h"
+
+1552147153 d:\adt\hazi\1 hazi\tomb.h
+
+1552150453 source:d:\adt\hazi\1 hazi\tomb.c
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589271782 source:e:\2.2\adatstruktúra\hazi\rendezes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Sort.h"
+	<time.h>
+
+1589271761 e:\2.2\adatstruktúra\hazi\rendezes\sort.h
+
+1589271727 source:e:\2.2\adatstruktúra\hazi\rendezes\sort.c
+	<stdlib.h>
+	<stdio.h>
+	"Sort.h"
+	<time.h>
+

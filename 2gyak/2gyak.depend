@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1551271366 source:c:\diak\pal attila\2gyak\main.c
+	"tomb.h"
+	<stdlib.h>
+	<stdio.h>
+
+1551271491 c:\diak\pal attila\2gyak\tomb.h
+
+1551633307 source:d:\adt\2gyak\main.c
+	"tomb.h"
+	<stdlib.h>
+	<stdio.h>
+
+1551271492 d:\adt\2gyak\tomb.h
+
+1551633418 source:d:\adt\2gyak\tomb.c
+	<stdlib.h>
+	<stdio.h>
+	"tomb.h"
+
